@@ -136,4 +136,5 @@ datasets/
 notebooks/tf_trials/datasets/
 
 # models
+models/
 notebooks/tf_trials/models/
